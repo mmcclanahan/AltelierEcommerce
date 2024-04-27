@@ -1,6 +1,6 @@
 ## About
 Front End of the main products page for Altelier Ecommerce. 
-Connecting an existing backend API with to a well designed and intuitive UI for users to explore products.
+Connecting an existing backend API to a well designed and intuitive UI for users to explore products.
 <ul>
   <li>
     Related Products Carousel allowing users to effortlessly explore a curated list of products linked to their current selection
